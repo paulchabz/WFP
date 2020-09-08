@@ -1,0 +1,13 @@
+C:\Users\paulw\source\repos\SchoolApp\SchoolsFormApp\bin\Debug\SchoolsFormApp.exe.config
+C:\Users\paulw\source\repos\SchoolApp\SchoolsFormApp\bin\Debug\SchoolsFormApp.exe
+C:\Users\paulw\source\repos\SchoolApp\SchoolsFormApp\bin\Debug\SchoolsFormApp.pdb
+C:\Users\paulw\source\repos\SchoolApp\SchoolsFormApp\bin\Debug\SchoolLibrary.dll
+C:\Users\paulw\source\repos\SchoolApp\SchoolsFormApp\bin\Debug\SchoolLibrary.pdb
+C:\Users\paulw\source\repos\SchoolApp\SchoolsFormApp\obj\Debug\SchoolsFormApp.csprojAssemblyReference.cache
+C:\Users\paulw\source\repos\SchoolApp\SchoolsFormApp\obj\Debug\SchoolsFormApp.Form1.resources
+C:\Users\paulw\source\repos\SchoolApp\SchoolsFormApp\obj\Debug\SchoolsFormApp.Properties.Resources.resources
+C:\Users\paulw\source\repos\SchoolApp\SchoolsFormApp\obj\Debug\SchoolsFormApp.csproj.GenerateResource.cache
+C:\Users\paulw\source\repos\SchoolApp\SchoolsFormApp\obj\Debug\SchoolsFormApp.csproj.CoreCompileInputs.cache
+C:\Users\paulw\source\repos\SchoolApp\SchoolsFormApp\obj\Debug\SchoolsFormApp.csproj.CopyComplete
+C:\Users\paulw\source\repos\SchoolApp\SchoolsFormApp\obj\Debug\SchoolsFormApp.exe
+C:\Users\paulw\source\repos\SchoolApp\SchoolsFormApp\obj\Debug\SchoolsFormApp.pdb
